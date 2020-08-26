@@ -1,7 +1,0 @@
-It is a python3 application
-1. pip install numpy
-2. pip install -U scikit-learn
-3. pip install opencv_python
-4. pip install dlib
-5. pip install pillow
-6. run test_tkinter.py
